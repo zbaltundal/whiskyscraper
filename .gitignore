@@ -1,0 +1,7 @@
+env/
+.vscode/
+*.json
+*.cfg
+__pycache__/
+whiskyscraper/__pycache__/
+whiskyscraper/whiskyscraper/__pycache__/
